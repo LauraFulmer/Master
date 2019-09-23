@@ -1,0 +1,16 @@
+************************************************************
+FileName: customPermissions/FinServ__FinancialServicesCloudBasic.customPermission
+FullName/Id: FinServ__FinancialServicesCloudBasic/0CP2o000000kDKLGA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: customPermissions/FinServ__FinancialServicesCloudStandard.customPermission
+FullName/Id: FinServ__FinancialServicesCloudStandard/0CP2o000000kDKKGA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************

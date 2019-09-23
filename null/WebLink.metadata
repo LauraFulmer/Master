@@ -1,0 +1,112 @@
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.FinServ__AddRelation/00b2o0000028X5uAAE
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__AddMember/00b2o0000028X5sAAE
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__AddRelation/00b2o0000028X5tAAE
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Lead.object
+FullName/Id: Lead.GoogleNews/00b2o0000028X5qAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.GoogleSearch/00b2o0000028X5oAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.GoogleMaps/00b2o0000028X5nAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.GoogleSearch/00b2o0000028X5lAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.GoogleMaps/00b2o0000028X5jAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Lead.object
+FullName/Id: Lead.GoogleSearch/00b2o0000028X5rAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Campaign.object
+FullName/Id: Campaign.ViewAllCampaignMembers/00b2o0000028X5mAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__RollupByLookupConfig__c.object
+FullName/Id: FinServ__RollupByLookupConfig__c.FinServ__Run_Rules/00b2o0000028X5vAAE
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Campaign.object
+FullName/Id: Campaign.ViewCampaignInfluenceReport/00b2o0000028X5iAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Lead.object
+FullName/Id: Lead.GoogleMaps/00b2o0000028X5pAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.GoogleNews/00b2o0000028X5kAAE
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************

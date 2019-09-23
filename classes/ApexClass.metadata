@@ -1,0 +1,2376 @@
+************************************************************
+FileName: classes/FinServ__TestReportController.cls
+FullName/Id: FinServ__TestReportController/01p2o000003LF3uAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestClientService.cls
+FullName/Id: FinServ__TestClientService/01p2o000003LF3hAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMLeadService.cls
+FullName/Id: FinServ__WMLeadService/01p2o000003LF4JAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMAccountAccountRelationValidation.cls
+FullName/Id: FinServ__TestWMAccountAccountRelationValidation/01p2o000003LF42AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestRestIndividualController.cls
+FullName/Id: FinServ__MoiTestRestIndividualController/01p2o000003LF3IAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__SFDCPlugins.cls
+FullName/Id: FinServ__SFDCPlugins/01p2o000003LF1gAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestFieldSetController.cls
+FullName/Id: FinServ__TestFieldSetController/01p2o000003LF3lAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexMocksIDGenerator.cls
+FullName/Id: FinServ__MoiApexMocksIDGenerator/01p2o000003LF0eAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiQueryBuilder.cls
+FullName/Id: FinServ__MoiQueryBuilder/01p2o000003LF2zAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__OpportunityService.cls
+FullName/Id: FinServ__OpportunityService/01p2o000003LF3NAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestMoiBasePostInstallHandler.cls
+FullName/Id: FinServ__TestMoiBasePostInstallHandler/01p2o000003LF3qAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMHouseholdMultiRollups.cls
+FullName/Id: FinServ__TestWMHouseholdMultiRollups/01p2o000003LF0EAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FinancialAccountRoleService.cls
+FullName/Id: FinServ__FinancialAccountRoleService/01p2o000003LF2RAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexMocksMethodReturnValue.cls
+FullName/Id: FinServ__MoiApexMocksMethodReturnValue/01p2o000003LF0gAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMCommonUtils.cls
+FullName/Id: FinServ__WMCommonUtils/01p2o000003LF4HAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiFieldSetHandler.cls
+FullName/Id: FinServ__MoiFieldSetHandler/01p2o000003LF2mAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMContactControllerExtension.cls
+FullName/Id: FinServ__TestWMContactControllerExtension/01p2o000003LF47AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__SampleController.cls
+FullName/Id: FinServ__SampleController/01p2o000003LF1iAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RollupByLookupTriggerHandler.cls
+FullName/Id: FinServ__RollupByLookupTriggerHandler/01p2o000003LF1dAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__Mocks.cls
+FullName/Id: FinServ__Mocks/01p2o000003LF0aAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestSegmentationService.cls
+FullName/Id: FinServ__TestSegmentationService/01p2o000003LF40AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RecordTypeController.cls
+FullName/Id: FinServ__RecordTypeController/01p2o000003LF3QAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TopicService.cls
+FullName/Id: FinServ__TopicService/01p2o000003LF4AAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestTodayPageController.cls
+FullName/Id: FinServ__TestTodayPageController/01p2o000003LF41AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__DialogLookUpConfig.cls
+FullName/Id: FinServ__DialogLookUpConfig/01p2o000003LF0SAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIService.cls
+FullName/Id: FinServ__MoiIService/01p2o000003LF1AAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMMultiHouseholdService.cls
+FullName/Id: FinServ__WMMultiHouseholdService/01p2o000003LF20AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestServiceFactory.cls
+FullName/Id: FinServ__MoiTestServiceFactory/01p2o000003LF1XAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDAOTestConditions.cls
+FullName/Id: FinServ__MoiDAOTestConditions/01p2o000003LF0tAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiICustomExtensibleService.cls
+FullName/Id: FinServ__MoiICustomExtensibleService/01p2o000003LF15AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiJobFlowManager.cls
+FullName/Id: FinServ__MoiJobFlowManager/01p2o000003LF2vAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMLeadServicePA.cls
+FullName/Id: FinServ__TestWMLeadServicePA/01p2o000003LF26AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMBiDirectionalRelationService.cls
+FullName/Id: FinServ__WMBiDirectionalRelationService/01p2o000003LF1yAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ISampleExtensibleService.cls
+FullName/Id: FinServ__ISampleExtensibleService/01p2o000003LF0VAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRollupOnClientAndHH.cls
+FullName/Id: FinServ__TestRollupOnClientAndHH/01p2o000003LF3xAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiISearchService.cls
+FullName/Id: FinServ__MoiISearchService/01p2o000003LF2pAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiSecurityHelper.cls
+FullName/Id: FinServ__MoiSecurityHelper/01p2o000003LF32AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRecordTypeController.cls
+FullName/Id: FinServ__TestRecordTypeController/01p2o000003LF3sAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestSecurityHelper.cls
+FullName/Id: FinServ__MoiTestSecurityHelper/01p2o000003LF4OAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestUtils.cls
+FullName/Id: FinServ__MoiTestUtils/01p2o000003LF3KAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIBusinessLogicChain.cls
+FullName/Id: FinServ__MoiIBusinessLogicChain/01p2o000003LF13AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDAOTestUtils.cls
+FullName/Id: FinServ__MoiDAOTestUtils/01p2o000003LF0vAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestDateUtils.cls
+FullName/Id: FinServ__MoiTestDateUtils/01p2o000003LF09AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__Moi.cls
+FullName/Id: FinServ__Moi/01p2o000003LF0cAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RunRollupRulesControllerExtension.cls
+FullName/Id: FinServ__RunRollupRulesControllerExtension/01p2o000003LF4eAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRelationshipControllerPA.cls
+FullName/Id: FinServ__TestRelationshipControllerPA/01p2o000003LF25AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMDeepLinkingControllerExtension.cls
+FullName/Id: FinServ__TestWMDeepLinkingControllerExtension/01p2o000003LF1tAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestHouseholdService.cls
+FullName/Id: FinServ__MoiTestHouseholdService/01p2o000003LF3BAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiConfiguration.cls
+FullName/Id: FinServ__MoiConfiguration/01p2o000003LF2gAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FinancialAccountTriggerHandler.cls
+FullName/Id: FinServ__FinancialAccountTriggerHandler/01p2o000003LF2TAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FinancialGoalTriggerHandler.cls
+FullName/Id: FinServ__FinancialGoalTriggerHandler/01p2o000003LF2UAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ApplicationConfig.cls
+FullName/Id: FinServ__ApplicationConfig/01p2o000003LF0LAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiContextStoreManager.cls
+FullName/Id: FinServ__MoiContextStoreManager/01p2o000003LF22AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RollupByLookupConfigTriggerHandler.cls
+FullName/Id: FinServ__RollupByLookupConfigTriggerHandler/01p2o000003LF3UAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTransactionResult.cls
+FullName/Id: FinServ__MoiTransactionResult/01p2o000003LF1ZAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMAccountControllerExtension.cls
+FullName/Id: FinServ__WMAccountControllerExtension/01p2o000003LF1wAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RollupByLookupFilterCriteriaService.cls
+FullName/Id: FinServ__RollupByLookupFilterCriteriaService/01p2o000003LF4cAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDataStoreManager.cls
+FullName/Id: FinServ__MoiDataStoreManager/01p2o000003LF4TAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestFieldSetHandler.cls
+FullName/Id: FinServ__MoiTestFieldSetHandler/01p2o000003LF3AAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDAOBase.cls
+FullName/Id: FinServ__MoiDAOBase/01p2o000003LF0pAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ReportService.cls
+FullName/Id: FinServ__ReportService/01p2o000003LF1cAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMContactControllerExtension.cls
+FullName/Id: FinServ__WMContactControllerExtension/01p2o000003LF1zAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestAppConfigController.cls
+FullName/Id: FinServ__MoiTestAppConfigController/01p2o000003LF34AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ContactContactRelationTriggerHandler.cls
+FullName/Id: FinServ__ContactContactRelationTriggerHandler/01p2o000003LF0NAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIBaseService.cls
+FullName/Id: FinServ__MoiIBaseService/01p2o000003LF12AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiBasePostInstallHandler.cls
+FullName/Id: FinServ__MoiBasePostInstallHandler/01p2o000003LF2bAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexLangUtils.cls
+FullName/Id: FinServ__MoiApexLangUtils/01p2o000003LF2aAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__SegmentationService.cls
+FullName/Id: FinServ__SegmentationService/01p2o000003LF3WAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiRestResponse.cls
+FullName/Id: FinServ__MoiRestResponse/01p2o000003LF1KAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RunRBLBatchable.cls
+FullName/Id: FinServ__RunRBLBatchable/01p2o000003LF4pAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RelationshipController.cls
+FullName/Id: FinServ__RelationshipController/01p2o000003LF3RAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRollupRecalculationBatchable.cls
+FullName/Id: FinServ__TestRollupRecalculationBatchable/01p2o000003LF4kAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestBaseService.cls
+FullName/Id: FinServ__MoiTestBaseService/01p2o000003LF36AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestFinancialAccountService.cls
+FullName/Id: FinServ__TestFinancialAccountService/01p2o000003LF3nAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestCreateB2CLeadCompanyNameConfig.cls
+FullName/Id: FinServ__TestCreateB2CLeadCompanyNameConfig/01p2o000003LF3jAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiRestApiUtil.cls
+FullName/Id: FinServ__MoiRestApiUtil/01p2o000003LF1IAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiLoggerFactory.cls
+FullName/Id: FinServ__MoiLoggerFactory/01p2o000003LF1EAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WealthFieldIgnore.cls
+FullName/Id: FinServ__WealthFieldIgnore/01p2o000003LF4MAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMBaseService.cls
+FullName/Id: FinServ__WMBaseService/01p2o000003LF4GAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestAccountContactRelationService.cls
+FullName/Id: FinServ__TestAccountContactRelationService/01p2o000003LF3bAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RollupRecalculationBatchable.cls
+FullName/Id: FinServ__RollupRecalculationBatchable/01p2o000003LF4dAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMMockBuilder.cls
+FullName/Id: FinServ__WMMockBuilder/01p2o000003LF4LAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__SFDCAccessController.cls
+FullName/Id: FinServ__SFDCAccessController/01p2o000003LF1fAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMHouseholdService.cls
+FullName/Id: FinServ__WMHouseholdService/01p2o000003LF4IAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDefaultLogger.cls
+FullName/Id: FinServ__MoiDefaultLogger/01p2o000003LF0wAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AccountContactSyncSchedulable.cls
+FullName/Id: FinServ__AccountContactSyncSchedulable/01p2o000003LF29AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDAOTestBase.cls
+FullName/Id: FinServ__MoiDAOTestBase/01p2o000003LF2iAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AccountAccountRelationTriggerHandler.cls
+FullName/Id: FinServ__AccountAccountRelationTriggerHandler/01p2o000003LF0IAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMAccountContactRelationTriggerHandler.cls
+FullName/Id: FinServ__WMAccountContactRelationTriggerHandler/01p2o000003LF4CAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestIndividualValidation.cls
+FullName/Id: FinServ__MoiTestIndividualValidation/01p2o000003LF1TAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexMocksTest.cls
+FullName/Id: FinServ__MoiApexMocksTest/01p2o000003LF0iAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestChatterService.cls
+FullName/Id: FinServ__MoiTestChatterService/01p2o000003LF1OAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestDefaultLogger.cls
+FullName/Id: FinServ__MoiTestDefaultLogger/01p2o000003LF1PAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestSegmentationController.cls
+FullName/Id: FinServ__TestSegmentationController/01p2o000003LF3zAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ContactInteractionBatchable.cls
+FullName/Id: FinServ__ContactInteractionBatchable/01p2o000003LF2JAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RBLFilterCriteriaTriggerHandler.cls
+FullName/Id: FinServ__RBLFilterCriteriaTriggerHandler/01p2o000003LF4XAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestFSCPicklistController.cls
+FullName/Id: FinServ__TestFSCPicklistController/01p2o000003LF4qAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestMoiReciprocalRoleService.cls
+FullName/Id: FinServ__TestMoiReciprocalRoleService/01p2o000003LF3rAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDAOQueryBuilder.cls
+FullName/Id: FinServ__MoiDAOQueryBuilder/01p2o000003LF0sAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiFactoryHelper.cls
+FullName/Id: FinServ__MoiFactoryHelper/01p2o000003LF0zAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestFinancialAccountRoleService.cls
+FullName/Id: FinServ__TestFinancialAccountRoleService/01p2o000003LF3mAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMAppConfig.cls
+FullName/Id: FinServ__TestWMAppConfig/01p2o000003LF43AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestSampleAccountService.cls
+FullName/Id: FinServ__TestSampleAccountService/01p2o000003LF1pAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexMocksTestIDGenerator.cls
+FullName/Id: FinServ__MoiApexMocksTestIDGenerator/01p2o000003LF0jAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiBusinessLogicChainBuilder.cls
+FullName/Id: FinServ__MoiBusinessLogicChainBuilder/01p2o000003LF0nAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestExceptionHelper.cls
+FullName/Id: FinServ__MoiTestExceptionHelper/01p2o000003LF1QAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiBiDirectionalRelationService.cls
+FullName/Id: FinServ__MoiBiDirectionalRelationService/01p2o000003LF2eAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__GroupAssignmentBatchable.cls
+FullName/Id: FinServ__GroupAssignmentBatchable/01p2o000003LF4oAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestFSCReferralReportService.cls
+FullName/Id: FinServ__TestFSCReferralReportService/01p2o000003LF4hAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestNamespaceHelper.cls
+FullName/Id: FinServ__MoiTestNamespaceHelper/01p2o000003LF3GAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestSampleController.cls
+FullName/Id: FinServ__TestSampleController/01p2o000003LF3yAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AppTriggerConstants.cls
+FullName/Id: FinServ__AppTriggerConstants/01p2o000003LF2CAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AccountContactRelationTriggerHandler.cls
+FullName/Id: FinServ__AccountContactRelationTriggerHandler/01p2o000003LF0JAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIndividualService.cls
+FullName/Id: FinServ__MoiIndividualService/01p2o000003LF2tAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FieldSetController.cls
+FullName/Id: FinServ__FieldSetController/01p2o000003LF2PAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiILogger.cls
+FullName/Id: FinServ__MoiILogger/01p2o000003LF18AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__CreateRollupByLookupConfig.cls
+FullName/Id: FinServ__CreateRollupByLookupConfig/01p2o000003LF2LAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiMultiGroupFieldUpdateBatchable.cls
+FullName/Id: FinServ__MoiMultiGroupFieldUpdateBatchable/01p2o000003LF2xAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiBaseTriggerHandler.cls
+FullName/Id: FinServ__MoiBaseTriggerHandler/01p2o000003LF2dAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__BiDirectionalRelationTriggerHandler.cls
+FullName/Id: FinServ__BiDirectionalRelationTriggerHandler/01p2o000003LF0MAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AlertsController.cls
+FullName/Id: FinServ__AlertsController/01p2o000003LF2BAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRunRollupJobs.cls
+FullName/Id: FinServ__TestRunRollupJobs/01p2o000003LF4rAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ListViewController.cls
+FullName/Id: FinServ__ListViewController/01p2o000003LF2XAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDAOTestFactory.cls
+FullName/Id: FinServ__MoiDAOTestFactory/01p2o000003LF0uAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestFinancialGoalCreate.cls
+FullName/Id: FinServ__TestFinancialGoalCreate/01p2o000003LF24AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__VisualizationComponent.cls
+FullName/Id: FinServ__VisualizationComponent/01p2o000003LF4BAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__SampleExtensibleService.cls
+FullName/Id: FinServ__SampleExtensibleService/01p2o000003LF1jAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiSearchService.cls
+FullName/Id: FinServ__MoiSearchService/01p2o000003LF31AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestBasePostInstall.cls
+FullName/Id: FinServ__MoiTestBasePostInstall/01p2o000003LF35AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AccountTriggerHandler.cls
+FullName/Id: FinServ__AccountTriggerHandler/01p2o000003LF0KAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__EventService.cls
+FullName/Id: FinServ__EventService/01p2o000003LF2MAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestAccountContactNameSync.cls
+FullName/Id: FinServ__TestAccountContactNameSync/01p2o000003LF3ZAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ReportData.cls
+FullName/Id: FinServ__ReportData/01p2o000003LF4aAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ReferralController.cls
+FullName/Id: FinServ__ReferralController/01p2o000003LF4YAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMHouseholdService.cls
+FullName/Id: FinServ__TestWMHouseholdService/01p2o000003LF48AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestBatchIndividualCreate.cls
+FullName/Id: FinServ__MoiTestBatchIndividualCreate/01p2o000003LF21AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__EventTriggerHandler.cls
+FullName/Id: FinServ__EventTriggerHandler/01p2o000003LF2NAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMAccountControllerExtension.cls
+FullName/Id: FinServ__TestWMAccountControllerExtension/01p2o000003LF1rAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTriggerParameters.cls
+FullName/Id: FinServ__MoiTriggerParameters/01p2o000003LF1aAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMAppPostInstall.cls
+FullName/Id: FinServ__WMAppPostInstall/01p2o000003LF4FAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__CreateReciprocalRole.cls
+FullName/Id: FinServ__CreateReciprocalRole/01p2o000003LF0QAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestIndustriesAppConfig.cls
+FullName/Id: FinServ__MoiTestIndustriesAppConfig/01p2o000003LF0AAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRollupByLookupHandler.cls
+FullName/Id: FinServ__TestRollupByLookupHandler/01p2o000003LF3wAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestAlertService.cls
+FullName/Id: FinServ__TestAlertService/01p2o000003LF3fAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RollupByLookupHandler.cls
+FullName/Id: FinServ__RollupByLookupHandler/01p2o000003LF3VAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMRollupSettings.cls
+FullName/Id: FinServ__TestWMRollupSettings/01p2o000003LF0GAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiExceptionHelper.cls
+FullName/Id: FinServ__MoiExceptionHelper/01p2o000003LF2lAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTransactionManager.cls
+FullName/Id: FinServ__MoiTransactionManager/01p2o000003LF3LAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexMocks.cls
+FullName/Id: FinServ__MoiApexMocks/01p2o000003LF0dAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ContactInteractionSchedulable.cls
+FullName/Id: FinServ__ContactInteractionSchedulable/01p2o000003LF0OAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ReferrerSummaryDetail.cls
+FullName/Id: FinServ__ReferrerSummaryDetail/01p2o000003LF4ZAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexMocksMethodCountRecorder.cls
+FullName/Id: FinServ__MoiApexMocksMethodCountRecorder/01p2o000003LF0fAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiLicenseKeyBuilder.cls
+FullName/Id: FinServ__MoiLicenseKeyBuilder/01p2o000003LF1CAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestJobFlowManagerHelper.cls
+FullName/Id: FinServ__MoiTestJobFlowManagerHelper/01p2o000003LF1UAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestModalController.cls
+FullName/Id: FinServ__TestModalController/01p2o000003LF3pAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FieldSetMember.cls
+FullName/Id: FinServ__FieldSetMember/01p2o000003LF2QAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ClientService.cls
+FullName/Id: FinServ__ClientService/01p2o000003LF2HAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRollupByLookupConfigService.cls
+FullName/Id: FinServ__TestRollupByLookupConfigService/01p2o000003LF1oAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FSCContactService.cls
+FullName/Id: FinServ__FSCContactService/01p2o000003LF4QAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiExceptionWrapper.cls
+FullName/Id: FinServ__MoiExceptionWrapper/01p2o000003LF0xAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestIndividualGroupValidator.cls
+FullName/Id: FinServ__MoiTestIndividualGroupValidator/01p2o000003LF3CAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FSCContactTriggerHandler.cls
+FullName/Id: FinServ__FSCContactTriggerHandler/01p2o000003LF4RAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestExtensibleServiceFactory.cls
+FullName/Id: FinServ__MoiTestExtensibleServiceFactory/01p2o000003LF1RAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiReciprocalRoleTriggerHandler.cls
+FullName/Id: FinServ__MoiReciprocalRoleTriggerHandler/01p2o000003LF1HAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMBaseService.cls
+FullName/Id: FinServ__TestWMBaseService/01p2o000003LF44AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiCommonUtils.cls
+FullName/Id: FinServ__MoiCommonUtils/01p2o000003LF2fAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDaoUtil.cls
+FullName/Id: FinServ__MoiDaoUtil/01p2o000003LF2kAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMHouseholdACRValidations.cls
+FullName/Id: FinServ__TestWMHouseholdACRValidations/01p2o000003LF0DAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__IndividualAutoFollowBatchable.cls
+FullName/Id: FinServ__IndividualAutoFollowBatchable/01p2o000003LF0WAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiConstants.cls
+FullName/Id: FinServ__MoiConstants/01p2o000003LF2hAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMHouseholdRollups.cls
+FullName/Id: FinServ__TestWMHouseholdRollups/01p2o000003LF0FAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__PrepareQueryStatement.cls
+FullName/Id: FinServ__PrepareQueryStatement/01p2o000003LF3OAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__SegmentationController.cls
+FullName/Id: FinServ__SegmentationController/01p2o000003LF1kAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TaskTriggerHandler.cls
+FullName/Id: FinServ__TaskTriggerHandler/01p2o000003LF3YAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FSCPicklistController.cls
+FullName/Id: FinServ__FSCPicklistController/01p2o000003LF4nAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiLicenseManager.cls
+FullName/Id: FinServ__MoiLicenseManager/01p2o000003LF1DAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiMockBuilder.cls
+FullName/Id: FinServ__MoiMockBuilder/01p2o000003LF2wAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ClientVisualizationController.cls
+FullName/Id: FinServ__ClientVisualizationController/01p2o000003LF2IAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRunRollupRulesControllerExtension.cls
+FullName/Id: FinServ__TestRunRollupRulesControllerExtension/01p2o000003LF4lAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestDeployCustomPicklist.cls
+FullName/Id: FinServ__TestDeployCustomPicklist/01p2o000003LF1mAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TaskService.cls
+FullName/Id: FinServ__TaskService/01p2o000003LF3XAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RelationshipsHelper.cls
+FullName/Id: FinServ__RelationshipsHelper/01p2o000003LF3SAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FinancialAccountRoleTriggerHandler.cls
+FullName/Id: FinServ__FinancialAccountRoleTriggerHandler/01p2o000003LF2SAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ClientFinancialAccountService.cls
+FullName/Id: FinServ__ClientFinancialAccountService/01p2o000003LF2GAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWealthFieldIgnore.cls
+FullName/Id: FinServ__TestWealthFieldIgnore/01p2o000003LF1vAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestLicenseManager.cls
+FullName/Id: FinServ__MoiTestLicenseManager/01p2o000003LF1VAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiFieldSetMember.cls
+FullName/Id: FinServ__MoiFieldSetMember/01p2o000003LF2nAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIndustriesBiDirectionRelationService.cls
+FullName/Id: FinServ__MoiIndustriesBiDirectionRelationService/01p2o000003LF4UAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMAppPostInstall.cls
+FullName/Id: FinServ__TestWMAppPostInstall/01p2o000003LF1sAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiValidationTriggerHandler.cls
+FullName/Id: FinServ__MoiValidationTriggerHandler/01p2o000003LF3MAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FSCReferralReportService.cls
+FullName/Id: FinServ__FSCReferralReportService/01p2o000003LF4SAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestIndividualService.cls
+FullName/Id: FinServ__MoiTestIndividualService/01p2o000003LF3DAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestListViewController.cls
+FullName/Id: FinServ__TestListViewController/01p2o000003LF3oAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIApplicationConfig.cls
+FullName/Id: FinServ__MoiIApplicationConfig/01p2o000003LF11AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIPrivileged.cls
+FullName/Id: FinServ__MoiIPrivileged/01p2o000003LF19AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__DeployCustomPicklist.cls
+FullName/Id: FinServ__DeployCustomPicklist/01p2o000003LF0RAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIndustriesAppConfig.cls
+FullName/Id: FinServ__MoiIndustriesAppConfig/01p2o000003LF2uAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestQueryBuilder.cls
+FullName/Id: FinServ__MoiTestQueryBuilder/01p2o000003LF3HAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestBiDirectionalRelationService.cls
+FullName/Id: FinServ__MoiTestBiDirectionalRelationService/01p2o000003LF37AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestValidationRules.cls
+FullName/Id: FinServ__TestValidationRules/01p2o000003LF4mAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__IndividualAutoFollowDataCreation.cls
+FullName/Id: FinServ__IndividualAutoFollowDataCreation/01p2o000003LF0XAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiAppConfigController.cls
+FullName/Id: FinServ__MoiAppConfigController/01p2o000003LF0lAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__SObjectWrapper.cls
+FullName/Id: FinServ__SObjectWrapper/01p2o000003LF4fAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ActivityCountController.cls
+FullName/Id: FinServ__ActivityCountController/01p2o000003LF06AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDateUtils.cls
+FullName/Id: FinServ__MoiDateUtils/01p2o000003LF08AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMAccountTriggerHandler.cls
+FullName/Id: FinServ__WMAccountTriggerHandler/01p2o000003LF4DAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMAppConfig.cls
+FullName/Id: FinServ__WMAppConfig/01p2o000003LF1xAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__LeadContactMergeBatchable.cls
+FullName/Id: FinServ__LeadContactMergeBatchable/01p2o000003LF2WAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexLangHelper.cls
+FullName/Id: FinServ__MoiApexLangHelper/01p2o000003LF2ZAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiServiceFactory.cls
+FullName/Id: FinServ__MoiServiceFactory/01p2o000003LF1LAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestActivityCountController.cls
+FullName/Id: FinServ__TestActivityCountController/01p2o000003LF3dAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiVisualizationComponent.cls
+FullName/Id: FinServ__MoiVisualizationComponent/01p2o000003LF4WAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestMultiGroupFieldUpdateBatchable.cls
+FullName/Id: FinServ__MoiTestMultiGroupFieldUpdateBatchable/01p2o000003LF3FAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__CreateB2CLeadCompanyNameConfig.cls
+FullName/Id: FinServ__CreateB2CLeadCompanyNameConfig/01p2o000003LF0PAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMLeadService.cls
+FullName/Id: FinServ__TestWMLeadService/01p2o000003LF0HAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ReportController.cls
+FullName/Id: FinServ__ReportController/01p2o000003LF1bAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestCreateReciprocalRole.cls
+FullName/Id: FinServ__TestCreateReciprocalRole/01p2o000003LF3kAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RollupByLookupConfigService.cls
+FullName/Id: FinServ__RollupByLookupConfigService/01p2o000003LF3TAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexMocksTestList.cls
+FullName/Id: FinServ__MoiApexMocksTestList/01p2o000003LF0kAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMBiDirectionalRelationService.cls
+FullName/Id: FinServ__TestWMBiDirectionalRelationService/01p2o000003LF45AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestClientController.cls
+FullName/Id: FinServ__TestClientController/01p2o000003LF3gAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiApexMocksMethodReturnValueRecorder.cls
+FullName/Id: FinServ__MoiApexMocksMethodReturnValueRecorder/01p2o000003LF0hAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMDeepLinkingControllerExtension.cls
+FullName/Id: FinServ__WMDeepLinkingControllerExtension/01p2o000003LF4PAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiITriggerHandler.cls
+FullName/Id: FinServ__MoiITriggerHandler/01p2o000003LF2qAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestFSCContactService.cls
+FullName/Id: FinServ__TestFSCContactService/01p2o000003LF4gAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMLeadTriggerHandler.cls
+FullName/Id: FinServ__WMLeadTriggerHandler/01p2o000003LF4KAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiPermCheckHelper.cls
+FullName/Id: FinServ__MoiPermCheckHelper/01p2o000003LF4NAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/Whatever.cls
+FullName/Id: Whatever/01p2o000003GCUuAAO
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: classes/FinServ__FinancialHoldingTriggerHandler.cls
+FullName/Id: FinServ__FinancialHoldingTriggerHandler/01p2o000003LF2VAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIndividualGroupValidator.cls
+FullName/Id: FinServ__MoiIndividualGroupValidator/01p2o000003LF2sAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestFactoryHelper.cls
+FullName/Id: FinServ__MoiTestFactoryHelper/01p2o000003LF1SAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIExtensibleService.cls
+FullName/Id: FinServ__MoiIExtensibleService/01p2o000003LF17AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestJobFlowManager.cls
+FullName/Id: FinServ__MoiTestJobFlowManager/01p2o000003LF3EAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiReciprocalRoleService.cls
+FullName/Id: FinServ__MoiReciprocalRoleService/01p2o000003LF1GAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ESAPI.cls
+FullName/Id: FinServ__ESAPI/01p2o000003LF0TAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMLicenseManager.cls
+FullName/Id: FinServ__TestWMLicenseManager/01p2o000003LF1uAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AlertService.cls
+FullName/Id: FinServ__AlertService/01p2o000003LF2AAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__LeadTriggerHandler.cls
+FullName/Id: FinServ__LeadTriggerHandler/01p2o000003LF0YAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AssetsAndLiabilitiesTriggerHandler.cls
+FullName/Id: FinServ__AssetsAndLiabilitiesTriggerHandler/01p2o000003LF2DAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ContactTriggerHandler.cls
+FullName/Id: FinServ__ContactTriggerHandler/01p2o000003LF2KAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestWMCommonUtils.cls
+FullName/Id: FinServ__TestWMCommonUtils/01p2o000003LF46AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__WMAppConstants.cls
+FullName/Id: FinServ__WMAppConstants/01p2o000003LF4EAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestIndividualAutoFollowBatchable.cls
+FullName/Id: FinServ__TestIndividualAutoFollowBatchable/01p2o000003LF1nAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestLoggerFactory.cls
+FullName/Id: FinServ__MoiTestLoggerFactory/01p2o000003LF1WAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__SFDCAccessControlException.cls
+FullName/Id: FinServ__SFDCAccessControlException/01p2o000003LF1eAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestAccountContactSyncBatchable.cls
+FullName/Id: FinServ__TestAccountContactSyncBatchable/01p2o000003LF3cAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiSobjectDescribe.cls
+FullName/Id: FinServ__MoiSobjectDescribe/01p2o000003LF1MAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiExtensibleServiceFactory.cls
+FullName/Id: FinServ__MoiExtensibleServiceFactory/01p2o000003LF0yAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiUICommonController.cls
+FullName/Id: FinServ__MoiUICommonController/01p2o000003LF07AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiJobFlowFactory.cls
+FullName/Id: FinServ__MoiJobFlowFactory/01p2o000003LF1BAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestApexLangHelper.cls
+FullName/Id: FinServ__MoiTestApexLangHelper/01p2o000003LF1NAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestContactInteractionBatchable.cls
+FullName/Id: FinServ__TestContactInteractionBatchable/01p2o000003LF0CAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__RevenueTriggerHandler.cls
+FullName/Id: FinServ__RevenueTriggerHandler/01p2o000003LF4bAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestCreateRollupByLookupConfig.cls
+FullName/Id: FinServ__TestCreateRollupByLookupConfig/01p2o000003LF1lAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__FSC.cls
+FullName/Id: FinServ__FSC/01p2o000003LF2OAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestAccountContactOwnerSync.cls
+FullName/Id: FinServ__TestAccountContactOwnerSync/01p2o000003LF3aAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiFieldIgnore.cls
+FullName/Id: FinServ__MoiFieldIgnore/01p2o000003LF10AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiAuraResponse.cls
+FullName/Id: FinServ__MoiAuraResponse/01p2o000003LF23AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__PrepareQueryStatementTest.cls
+FullName/Id: FinServ__PrepareQueryStatementTest/01p2o000003LF3PAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiBaseService.cls
+FullName/Id: FinServ__MoiBaseService/01p2o000003LF2cAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestActivityTrigger.cls
+FullName/Id: FinServ__TestActivityTrigger/01p2o000003LF3eAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiRestIndividualController.cls
+FullName/Id: FinServ__MoiRestIndividualController/01p2o000003LF1JAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiLoggerLevel.cls
+FullName/Id: FinServ__MoiLoggerLevel/01p2o000003LF1FAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDAOConditionBuilder.cls
+FullName/Id: FinServ__MoiDAOConditionBuilder/01p2o000003LF0qAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__BirthdayCardMember.cls
+FullName/Id: FinServ__BirthdayCardMember/01p2o000003LF2EAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestTransactionManager.cls
+FullName/Id: FinServ__MoiTestTransactionManager/01p2o000003LF1YAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MetadataServiceTest.cls
+FullName/Id: FinServ__MetadataServiceTest/01p2o000003LF2YAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIValidation.cls
+FullName/Id: FinServ__MoiIValidation/01p2o000003LF2rAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ModalController.cls
+FullName/Id: FinServ__ModalController/01p2o000003LF0bAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestIndustriesBiDirRelService.cls
+FullName/Id: FinServ__MoiTestIndustriesBiDirRelService/01p2o000003LF4VAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__SampleAccountService.cls
+FullName/Id: FinServ__SampleAccountService/01p2o000003LF1hAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestApexLangUtils.cls
+FullName/Id: FinServ__MoiTestApexLangUtils/01p2o000003LF33AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__ClientController.cls
+FullName/Id: FinServ__ClientController/01p2o000003LF2FAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiNamespaceHelper.cls
+FullName/Id: FinServ__MoiNamespaceHelper/01p2o000003LF2yAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDAOTestQueryBuilder.cls
+FullName/Id: FinServ__MoiDAOTestQueryBuilder/01p2o000003LF2jAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRelationshipController.cls
+FullName/Id: FinServ__TestRelationshipController/01p2o000003LF3tAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestConfiguration.cls
+FullName/Id: FinServ__MoiTestConfiguration/01p2o000003LF39AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AccountContactSyncBatchable.cls
+FullName/Id: FinServ__AccountContactSyncBatchable/01p2o000003LF28AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__AccountContactRelationService.cls
+FullName/Id: FinServ__AccountContactRelationService/01p2o000003LF27AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIBusinessLogicHandler.cls
+FullName/Id: FinServ__MoiIBusinessLogicHandler/01p2o000003LF14AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestClientVisualizationController.cls
+FullName/Id: FinServ__TestClientVisualizationController/01p2o000003LF3iAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__OpportunityTriggerHandler.cls
+FullName/Id: FinServ__OpportunityTriggerHandler/01p2o000003LF0BAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiHouseholdService.cls
+FullName/Id: FinServ__MoiHouseholdService/01p2o000003LF2oAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiDAOFactory.cls
+FullName/Id: FinServ__MoiDAOFactory/01p2o000003LF0rAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MetadataService.cls
+FullName/Id: FinServ__MetadataService/01p2o000003LF0ZAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiIDefaultExtensibleService.cls
+FullName/Id: FinServ__MoiIDefaultExtensibleService/01p2o000003LF16AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiRestIndividualHelper.cls
+FullName/Id: FinServ__MoiRestIndividualHelper/01p2o000003LF30AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestRollupByLookupFilterCriteriaService.cls
+FullName/Id: FinServ__TestRollupByLookupFilterCriteriaService/01p2o000003LF4jAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiChatterService.cls
+FullName/Id: FinServ__MoiChatterService/01p2o000003LF0oAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestReportService.cls
+FullName/Id: FinServ__TestReportService/01p2o000003LF3vAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TodayPageController.cls
+FullName/Id: FinServ__TodayPageController/01p2o000003LF49AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiBaseResponse.cls
+FullName/Id: FinServ__MoiBaseResponse/01p2o000003LF0mAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__HttpRequestWrapper.cls
+FullName/Id: FinServ__HttpRequestWrapper/01p2o000003LF0UAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestTopicService.cls
+FullName/Id: FinServ__TestTopicService/01p2o000003LF1qAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestCommonUtils.cls
+FullName/Id: FinServ__MoiTestCommonUtils/01p2o000003LF38AAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__MoiTestUICommonController.cls
+FullName/Id: FinServ__MoiTestUICommonController/01p2o000003LF3JAAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: classes/FinServ__TestReferralController.cls
+FullName/Id: FinServ__TestReferralController/01p2o000003LF4iAAG
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************

@@ -1,0 +1,168 @@
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.Account_Compact_Layout/0AH2o000000hqDCGAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__Education__c.object
+FullName/Id: FinServ__Education__c.FinServ__EducationCompactLayout/0AH2o000000hqDPGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__BillingStatement__c.object
+FullName/Id: FinServ__BillingStatement__c.FinServ__CreditCompactLayout/0AH2o000000hqDKGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__Card__c.object
+FullName/Id: FinServ__Card__c.FinServ__CardCompactLayout/0AH2o000000hqDMGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__ChargesAndFees__c.object
+FullName/Id: FinServ__ChargesAndFees__c.FinServ__CompactLayoutDebit/0AH2o000000hqDOGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Lead.object
+FullName/Id: Lead.Leads_Custom_Compact_Layout/0AH2o000000hqDDGAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__ChargesAndFees__c.object
+FullName/Id: FinServ__ChargesAndFees__c.FinServ__CompactLayoutCredit/0AH2o000000hqDNGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__BillingStatement__c.object
+FullName/Id: FinServ__BillingStatement__c.FinServ__DebitCompactLayout/0AH2o000000hqDLGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__IdentificationDocument__c.object
+FullName/Id: FinServ__IdentificationDocument__c.FinServ__IdentificationDocumentCompactLayout/0AH2o000000hqDSGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__IndividualInsuranceCompactLayout/0AH2o000000hqDHGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Claim.object
+FullName/Id: Claim.Insurance_Sample/0AH2o000000hqDUGAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.QuickStartLayout/0AH2o000000hqDJGAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/User.object
+FullName/Id: User.User_Layout/0AH2o000000hqDAGAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/PersonAccount.object
+FullName/Id: PersonAccount.Person_Account_Layout/0AH2o000000hqDIGAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__HouseholdInsuranceCompactLayout/0AH2o000000hqDGGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccountTransaction__c.object
+FullName/Id: FinServ__FinancialAccountTransaction__c.FinServ__FATransaction/0AH2o000000hqDRGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__IndividualCompactLayout/0AH2o000000hqDFGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__Employment__c.object
+FullName/Id: FinServ__Employment__c.FinServ__EmploymentCompactLayout/0AH2o000000hqDQGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/InsurancePolicy.object
+FullName/Id: InsurancePolicy.Insurance_Sample/0AH2o000000hqDTGAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Opportunity.object
+FullName/Id: Opportunity.New_Awesome_Companct_Layout/0AH2o000000hqDBGAY
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__HouseholdCompactLayout/0AH2o000000hqDEGAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************

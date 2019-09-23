@@ -1,0 +1,40 @@
+************************************************************
+FileName: reportTypes/FinServ__Clients_Dashboards.reportType
+FullName/Id: FinServ__Clients_Dashboards/0702o000000E7XmAAK
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reportTypes/FinServ__Clients.reportType
+FullName/Id: FinServ__Clients/0702o000000E7XlAAK
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reportTypes/FinServ__FinancialAccounts.reportType
+FullName/Id: FinServ__FinancialAccounts/0702o000000E7XpAAK
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: reportTypes/FinServ__Households.reportType
+FullName/Id: FinServ__Households/0702o000000E7XnAAK
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reportTypes/FinServ__Households_Dashboards.reportType
+FullName/Id: FinServ__Households_Dashboards/0702o000000E7XoAAK
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************

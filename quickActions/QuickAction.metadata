@@ -1,0 +1,608 @@
+************************************************************
+FileName: quickActions/NewEventClientAssociate.quickAction
+FullName/Id: NewEventClientAssociate/09D2o000001Zv1TEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Follow_Up.quickAction
+FullName/Id: Follow_Up/09D2o000001Zv1WEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_3.quickAction
+FullName/Id: Task.UpdatePriority_3/09D2o000001Zv19EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_5.quickAction
+FullName/Id: Task.Defer_5/09D2o000001Zv0zEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_6.quickAction
+FullName/Id: Task.Defer_6/09D2o000001Zv0vEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_4.quickAction
+FullName/Id: Task.UpdateStatus_4/09D2o000001Zv14EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/FinServ__FinancialAccount__c.NewCase.quickAction
+FullName/Id: FinServ__FinancialAccount__c.NewCase/09D2o000001Zv0VEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: quickActions/NewTaskClientAssociate.quickAction
+FullName/Id: NewTaskClientAssociate/09D2o000001Zv1UEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_9.quickAction
+FullName/Id: Task.EditDescription_9/09D2o000001ZvI1EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Case.NewChildCase.quickAction
+FullName/Id: Case.NewChildCase/09D2o000001Zv0kEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/NewCase.quickAction
+FullName/Id: NewCase/09D2o000001Zv1bEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/NewTask.quickAction
+FullName/Id: NewTask/09D2o000001Zv0bEAC
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewContact.quickAction
+FullName/Id: NewContact/09D2o000001Zv0fEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_1.quickAction
+FullName/Id: Task.UpdatePriority_1/09D2o000001Zv1HEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_6.quickAction
+FullName/Id: Task.EditDescription_6/09D2o000001Zv0uEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewGroup.quickAction
+FullName/Id: NewGroup/09D2o000001Zv1cEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_4.quickAction
+FullName/Id: Task.Defer_4/09D2o000001Zv13EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_8.quickAction
+FullName/Id: Task.Defer_8/09D2o000001Zv0nEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Quote.SendEmail.quickAction
+FullName/Id: Quote.SendEmail/09D2o000001Zv1SEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewLead.quickAction
+FullName/Id: NewLead/09D2o000001Zv0iEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_8.quickAction
+FullName/Id: Task.UpdateStatus_8/09D2o000001Zv0oEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_6.quickAction
+FullName/Id: Task.UpdatePriority_6/09D2o000001Zv0xEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_8.quickAction
+FullName/Id: Task.UpdatePriority_8/09D2o000001Zv0pEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/FinServ__FinancialAccount__c.NewOpportunity.quickAction
+FullName/Id: FinServ__FinancialAccount__c.NewOpportunity/09D2o000001Zv0TEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/LogACallAdvisor.quickAction
+FullName/Id: LogACallAdvisor/09D2o000001Zv0YEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/FeedItem.NewTaskFromFeedItem.quickAction
+FullName/Id: FeedItem.NewTaskFromFeedItem/09D2o000001Zv1REAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_0.quickAction
+FullName/Id: Task.EditDescription_0/09D2o000001Zv1IEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_4.quickAction
+FullName/Id: Task.UpdatePriority_4/09D2o000001Zv15EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewTask.quickAction
+FullName/Id: NewTask/09D2o000001Zv0dEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/LogACallClientAssociate.quickAction
+FullName/Id: LogACallClientAssociate/09D2o000001Zv1VEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Account.Child_Account.quickAction
+FullName/Id: Account.Child_Account/09D2o000001Zv1ZEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_1.quickAction
+FullName/Id: Task.Defer_1/09D2o000001Zv1FEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_0.quickAction
+FullName/Id: Task.Defer_0/09D2o000001Zv1JEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/LogACall.quickAction
+FullName/Id: LogACall/09D2o000001Zv0cEAC
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_9.quickAction
+FullName/Id: Task.UpdateStatus_9/09D2o000001ZvI3EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewEvent.quickAction
+FullName/Id: NewEvent/09D2o000001Zv0eEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_7.quickAction
+FullName/Id: Task.UpdateStatus_7/09D2o000001Zv0sEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/CollaborationGroup.NewGroupMember.quickAction
+FullName/Id: CollaborationGroup.NewGroupMember/09D2o000001Zv1XEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_1.quickAction
+FullName/Id: Task.EditDescription_1/09D2o000001Zv1EEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_6.quickAction
+FullName/Id: Task.UpdateStatus_6/09D2o000001Zv0wEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_2.quickAction
+FullName/Id: Task.Defer_2/09D2o000001Zv1BEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription.quickAction
+FullName/Id: Task.EditDescription/09D2o000001Zv1MEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_9.quickAction
+FullName/Id: Task.UpdatePriority_9/09D2o000001ZvI4EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_7.quickAction
+FullName/Id: Task.Defer_7/09D2o000001Zv0rEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_5.quickAction
+FullName/Id: Task.EditDescription_5/09D2o000001Zv0yEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_9.quickAction
+FullName/Id: Task.Defer_9/09D2o000001ZvI2EAK
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewTaskAdvisor.quickAction
+FullName/Id: NewTaskAdvisor/09D2o000001Zv0XEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: quickActions/LogACall.quickAction
+FullName/Id: LogACall/09D2o000001Zv0gEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer_3.quickAction
+FullName/Id: Task.Defer_3/09D2o000001Zv17EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_0.quickAction
+FullName/Id: Task.UpdateStatus_0/09D2o000001Zv1KEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus.quickAction
+FullName/Id: Task.UpdateStatus/09D2o000001Zv1OEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Campaign.Child_Campaign.quickAction
+FullName/Id: Campaign.Child_Campaign/09D2o000001Zv0lEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_2.quickAction
+FullName/Id: Task.EditDescription_2/09D2o000001Zv1AEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewAccount.quickAction
+FullName/Id: NewAccount/09D2o000001Zv1aEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_5.quickAction
+FullName/Id: Task.UpdateStatus_5/09D2o000001Zv10EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_4.quickAction
+FullName/Id: Task.EditDescription_4/09D2o000001Zv12EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewOpportunity.quickAction
+FullName/Id: NewOpportunity/09D2o000001Zv0hEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/CollaborationGroup.NewGroupRecord.quickAction
+FullName/Id: CollaborationGroup.NewGroupRecord/09D2o000001Zv1YEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/NewEventAdvisor.quickAction
+FullName/Id: NewEventAdvisor/09D2o000001Zv0WEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_7.quickAction
+FullName/Id: Task.EditDescription_7/09D2o000001Zv0qEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/SendEmail.quickAction
+FullName/Id: SendEmail/09D2o000001Zv0jEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Automated Process/0052o000009YCqgAAG
+Last Modified By (Name/Id): Automated Process/0052o000009YCqgAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_1.quickAction
+FullName/Id: Task.UpdateStatus_1/09D2o000001Zv1GEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.Defer.quickAction
+FullName/Id: Task.Defer/09D2o000001Zv1NEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_7.quickAction
+FullName/Id: Task.UpdatePriority_7/09D2o000001Zv0tEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_8.quickAction
+FullName/Id: Task.EditDescription_8/09D2o000001Zv0mEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_2.quickAction
+FullName/Id: Task.UpdateStatus_2/09D2o000001Zv1CEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/FinServ__FinancialAccount__c.NewWalletShareOpportunity.quickAction
+FullName/Id: FinServ__FinancialAccount__c.NewWalletShareOpportunity/09D2o000001Zv0UEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_0.quickAction
+FullName/Id: Task.UpdatePriority_0/09D2o000001Zv1LEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): salesforce.com/0052o000009YCqhAAG
+Last Modified By (Name/Id): salesforce.com/0052o000009YCqhAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_5.quickAction
+FullName/Id: Task.UpdatePriority_5/09D2o000001Zv11EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewLeadReferral.quickAction
+FullName/Id: NewLeadReferral/09D2o000001Zv0ZEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: quickActions/NewEvent.quickAction
+FullName/Id: NewEvent/09D2o000001Zv0aEAC
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdateStatus_3.quickAction
+FullName/Id: Task.UpdateStatus_3/09D2o000001Zv18EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/NewBusinessLeadReferral.quickAction
+FullName/Id: NewBusinessLeadReferral/09D2o000001Zv1QEAS
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority_2.quickAction
+FullName/Id: Task.UpdatePriority_2/09D2o000001Zv1DEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.UpdatePriority.quickAction
+FullName/Id: Task.UpdatePriority/09D2o000001Zv1PEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: quickActions/Task.EditDescription_3.quickAction
+FullName/Id: Task.EditDescription_3/09D2o000001Zv16EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************

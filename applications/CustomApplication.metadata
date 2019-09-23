@@ -1,0 +1,200 @@
+************************************************************
+FileName: applications/Sales.app
+FullName/Id: Sales/02u2o0000014foIAAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__AllTabSet.app
+FullName/Id: standard__AllTabSet/02u2o0000014foeAAA
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__Sales.app
+FullName/Id: standard__Sales/02u2o0000014foCAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__LightningService.app
+FullName/Id: standard__LightningService/02u2o0000014foMAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/Welcome.app
+FullName/Id: Welcome/02u2o0000014foJAAQ
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__Platform.app
+FullName/Id: standard__Platform/02u2o0000014foWAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__LightningSales.app
+FullName/Id: standard__LightningSales/02u2o0000014foKAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__Insights.app
+FullName/Id: standard__Insights/02u2o0000014fodAAA
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__Community.app
+FullName/Id: standard__Community/02u2o0000014foaAAA
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/FinServ__CommBankingConsoleFinancialServicesCloud.app
+FullName/Id: FinServ__CommBankingConsoleFinancialServicesCloud/02u2o0000014foGAAQ
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: applications/standard__Marketing.app
+FullName/Id: standard__Marketing/02u2o0000014foVAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__ServiceConsole.app
+FullName/Id: standard__ServiceConsole/02u2o0000014fobAAA
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/FinServ__FinancialServicesCloud.app
+FullName/Id: FinServ__FinancialServicesCloud/02u2o0000014foBAAQ
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: applications/FinServ__FinancialServicesCloudRetailBanking.app
+FullName/Id: FinServ__FinancialServicesCloudRetailBanking/02u2o0000014foEAAQ
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: applications/FinServ__InsuranceConsoleFinancialServicesCloud.app
+FullName/Id: FinServ__InsuranceConsoleFinancialServicesCloud/02u2o0000014foHAAQ
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: applications/standard__LightningSalesConsole.app
+FullName/Id: standard__LightningSalesConsole/02u2o0000014foLAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/FinServ__FSC_Lightning.app
+FullName/Id: FinServ__FSC_Lightning/02u2o0000014foDAAQ
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: applications/standard__InsuranceConsole.app
+FullName/Id: standard__InsuranceConsole/02u2o0000014foQAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__Chatter.app
+FullName/Id: standard__Chatter/02u2o0000014foYAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__LightningInstrumentation.app
+FullName/Id: standard__LightningInstrumentation/02u2o0000014foNAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__LightningBolt.app
+FullName/Id: standard__LightningBolt/02u2o000000rOTeAAM
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__LightningScheduler.app
+FullName/Id: standard__LightningScheduler/02u2o000000rOTdAAM
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__AppLauncher.app
+FullName/Id: standard__AppLauncher/02u2o0000014fofAAA
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/standard__Service.app
+FullName/Id: standard__Service/02u2o0000014foXAAQ
+Manageable State: unmanaged
+Namespace Prefix: standard
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: applications/FinServ__BankingConsoleFinancialServicesCloud.app
+FullName/Id: FinServ__BankingConsoleFinancialServicesCloud/02u2o0000014foFAAQ
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************

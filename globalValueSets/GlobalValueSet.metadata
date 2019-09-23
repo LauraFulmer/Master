@@ -1,0 +1,24 @@
+************************************************************
+FileName: globalValueSets/FinServ__ProductList.globalValueSet
+FullName/Id: FinServ__ProductList/0Nt2o000000PXtECAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: globalValueSets/FinServ__Languages.globalValueSet
+FullName/Id: FinServ__Languages/0Nt2o000000PXtDCAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: globalValueSets/FinServ__Countries.globalValueSet
+FullName/Id: FinServ__Countries/0Nt2o000000PXtCCAW
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************

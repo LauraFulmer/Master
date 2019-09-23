@@ -1,0 +1,240 @@
+************************************************************
+FileName: flexipages/LightningService_UtilityBar.flexipage
+FullName/Id: LightningService_UtilityBar/0M02o000000cTYECA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__BankingConsoleUtilityBar.flexipage
+FullName/Id: FinServ__BankingConsoleUtilityBar/0M02o000000cTYOCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/Client_Segmentation.flexipage
+FullName/Id: Client_Segmentation/0M02o000000cTY7CAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/WealthClientRecordPage.flexipage
+FullName/Id: WealthClientRecordPage/0M02o000000cTYXCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/LightningSalesConsole_UtilityBar.flexipage
+FullName/Id: LightningSalesConsole_UtilityBar/0M02o000000cTYCCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__Commercial_Banking_Console_UtilityBar.flexipage
+FullName/Id: FinServ__Commercial_Banking_Console_UtilityBar/0M02o000000cTY9CAM
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/Insurance_Agent_Console_Home_Page1.flexipage
+FullName/Id: Insurance_Agent_Console_Home_Page1/0M02o000000cTYaCAM
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__BankingHomePage.flexipage
+FullName/Id: FinServ__BankingHomePage/0M02o000000cTYPCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__CommercialBankingHomePage.flexipage
+FullName/Id: FinServ__CommercialBankingHomePage/0M02o000000cTY8CAM
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/Contact_Record_Page.flexipage
+FullName/Id: Contact_Record_Page/0M02o000000cTYWCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__ClientRecordPage.flexipage
+FullName/Id: FinServ__ClientRecordPage/0M02o000000cTYACA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__BankingIndividualPageOneColumn.flexipage
+FullName/Id: FinServ__BankingIndividualPageOneColumn/0M02o000000cTYSCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__BankingInstitutionAccountPage.flexipage
+FullName/Id: FinServ__BankingInstitutionAccountPage/0M02o000000cTYUCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/BankingPersonPageTwoColumn.flexipage
+FullName/Id: BankingPersonPageTwoColumn/0M02o000000cTYKCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/ClientRecordPage1.flexipage
+FullName/Id: ClientRecordPage1/0M02o000000cTYYCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__BankingIndividualPageTwoColumn.flexipage
+FullName/Id: FinServ__BankingIndividualPageTwoColumn/0M02o000000cTYTCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__UserProfilePage.flexipage
+FullName/Id: FinServ__UserProfilePage/0M02o000000cTYVCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__FinancialAccount.flexipage
+FullName/Id: FinServ__FinancialAccount/0M02o000000cTYDCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/Welcome_UtilityBar.flexipage
+FullName/Id: Welcome_UtilityBar/0M02o000000cTYFCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/Mobile_Home.flexipage
+FullName/Id: Mobile_Home/0M02o000000cTYLCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__BankingHouseholdPageTwoColumn.flexipage
+FullName/Id: FinServ__BankingHouseholdPageTwoColumn/0M02o000000cTYRCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/BankingIndividualPageOneColumnPerson.flexipage
+FullName/Id: BankingIndividualPageOneColumnPerson/0M02o000000cTYJCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__BankingBusinessAccountPage.flexipage
+FullName/Id: FinServ__BankingBusinessAccountPage/0M02o000000cTYMCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__Insurance_Console_UtilityBar.flexipage
+FullName/Id: FinServ__Insurance_Console_UtilityBar/0M02o000000cTYHCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__BankingBusinessContactPage.flexipage
+FullName/Id: FinServ__BankingBusinessContactPage/0M02o000000cTYNCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__WealthHome.flexipage
+FullName/Id: FinServ__WealthHome/0M02o000000cTYBCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/HomePageAll.flexipage
+FullName/Id: HomePageAll/0M02o000000cTYICA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/Insurance_Agent_Console_Home_Page.flexipage
+FullName/Id: Insurance_Agent_Console_Home_Page/0M02o000000cTYZCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: flexipages/FinServ__BankingHouseholdPageOneColumn.flexipage
+FullName/Id: FinServ__BankingHouseholdPageOneColumn/0M02o000000cTYQCA2
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: flexipages/Getting_Started.flexipage
+FullName/Id: Getting_Started/0M02o000000cTYGCA2
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************

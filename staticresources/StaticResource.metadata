@@ -1,0 +1,32 @@
+************************************************************
+FileName: staticresources/FinServ__wealthresources.resource
+FullName/Id: FinServ__wealthresources/0812o000000wnWPAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: staticresources/FinServ__Chartjs_chart_min_js.resource
+FullName/Id: FinServ__Chartjs_chart_min_js/0812o000000wnWMAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: staticresources/FinServ__industryresources.resource
+FullName/Id: FinServ__industryresources/0812o000000wnWOAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: staticresources/FinServ__Chartjs_pure_min_css.resource
+FullName/Id: FinServ__Chartjs_pure_min_css/0812o000000wnWNAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************

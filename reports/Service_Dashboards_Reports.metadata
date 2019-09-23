@@ -1,0 +1,200 @@
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Trend_of_Case_Resolution_Time.report
+FullName/Id: Service_Dashboards_Reports/Trend_of_Case_Resolution_Time/00O2o000008K6qEEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_Currently_Open_by_Priority.report
+FullName/Id: Service_Dashboards_Reports/Cases_Currently_Open_by_Priority/00O2o000008K6q6EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_by_Type_and_Open_Status.report
+FullName/Id: Service_Dashboards_Reports/Cases_by_Type_and_Open_Status/00O2o000008K6qBEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/High_Priority_Open_Cases_by_Account.report
+FullName/Id: Service_Dashboards_Reports/High_Priority_Open_Cases_by_Account/00O2o000008K6qCEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Trend_of_Cases_Closed.report
+FullName/Id: Service_Dashboards_Reports/Trend_of_Cases_Closed/00O2o000008K6qFEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Case_Resolution_Time_MTD_by_Origin.report
+FullName/Id: Service_Dashboards_Reports/Case_Resolution_Time_MTD_by_Origin/00O2o000008K6pyEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_Currently_Open_by_Agent.report
+FullName/Id: Service_Dashboards_Reports/Cases_Currently_Open_by_Agent/00O2o000008K6q4EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_by_Priority.report
+FullName/Id: Service_Dashboards_Reports/Cases_by_Priority/00O2o000008K6qAEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_by_Origin_and_Open_Status.report
+FullName/Id: Service_Dashboards_Reports/Cases_by_Origin_and_Open_Status/00O2o000008K6q9EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Age_of_Cases_Currently_Open_by_Type.report
+FullName/Id: Service_Dashboards_Reports/Age_of_Cases_Currently_Open_by_Type/00O2o000008K6psEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Average_Case_Resolution_Time_MTD.report
+FullName/Id: Service_Dashboards_Reports/Average_Case_Resolution_Time_MTD/00O2o000008K6pwEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Aged_Cases_by_Account.report
+FullName/Id: Service_Dashboards_Reports/Aged_Cases_by_Account/00O2o000008K6ptEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_Closed_MTD_by_Agent.report
+FullName/Id: Service_Dashboards_Reports/Cases_Closed_MTD_by_Agent/00O2o000008K6q0EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Aged_Cases_by_Agent.report
+FullName/Id: Service_Dashboards_Reports/Aged_Cases_by_Agent/00O2o000008K6puEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Avg_Case_Resolution_Time_MTD_by_Agen.report
+FullName/Id: Service_Dashboards_Reports/Avg_Case_Resolution_Time_MTD_by_Agen/00O2o000008K6pxEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_Closed_MTD.report
+FullName/Id: Service_Dashboards_Reports/Cases_Closed_MTD/00O2o000008K6pzEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_by_Origin.report
+FullName/Id: Service_Dashboards_Reports/Cases_by_Origin/00O2o000008K6q8EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_Currently_Open_by_Type.report
+FullName/Id: Service_Dashboards_Reports/Cases_Currently_Open_by_Type/00O2o000008K6q7EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Trend_of_Cases_Created.report
+FullName/Id: Service_Dashboards_Reports/Trend_of_Cases_Created/00O2o000008K6qGEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Top_10_Cases_by_Age.report
+FullName/Id: Service_Dashboards_Reports/Top_10_Cases_by_Age/00O2o000008K6qDEAS
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_Currently_Open_by_Origin.report
+FullName/Id: Service_Dashboards_Reports/Cases_Currently_Open_by_Origin/00O2o000008K6q5EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Average_Case_Resolution_Time_1.report
+FullName/Id: Service_Dashboards_Reports/Average_Case_Resolution_Time_1/00O2o000008K6pvEAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_Currently_Open.report
+FullName/Id: Service_Dashboards_Reports/Cases_Currently_Open/00O2o000008K6q2EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_Created_MTD.report
+FullName/Id: Service_Dashboards_Reports/Cases_Created_MTD/00O2o000008K6q1EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: reports/Service_Dashboards_Reports/Cases_Currently_Open_by_Account.report
+FullName/Id: Service_Dashboards_Reports/Cases_Currently_Open_by_Account/00O2o000008K6q3EAC
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************

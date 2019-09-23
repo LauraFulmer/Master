@@ -1,0 +1,32 @@
+************************************************************
+FileName: matchingRules/Contact.matchingRule
+FullName/Id: Contact.Standard_Contact_Match_Rule_v1_1/0JD2o000001IFQEGA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Automated Process/0052o000009YCqgAAG
+************************************************************
+************************************************************
+FileName: matchingRules/Lead.matchingRule
+FullName/Id: Lead.Standard_Lead_Match_Rule_v1_0/0JD2o000001IFQFGA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Automated Process/0052o000009YCqgAAG
+************************************************************
+************************************************************
+FileName: matchingRules/Account.matchingRule
+FullName/Id: Account.Standard_Account_Match_Rule_v1_0/0JD2o000001IFQHGA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Automated Process/0052o000009YCqgAAG
+************************************************************
+************************************************************
+FileName: matchingRules/Account.matchingRule
+FullName/Id: Account.Standard_PersonAccount_Match_Rule_v1_0/0JD2o000001IFQGGA4
+Manageable State: unmanaged
+Namespace Prefix: null
+Created By (Name/Id): Automated Process/0052o000009YCqgAAG
+Last Modified By (Name/Id): Automated Process/0052o000009YCqgAAG
+************************************************************

@@ -1,0 +1,208 @@
+************************************************************
+FileName: sharingRules/ServiceAppointment.sharingRules
+FullName/Id: ServiceAppointment/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Award.sharingRules
+FullName/Id: Award/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Contact.sharingRules
+FullName/Id: Contact/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Individual.sharingRules
+FullName/Id: Individual/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Opportunity.sharingRules
+FullName/Id: Opportunity/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Order.sharingRules
+FullName/Id: Order/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/ListEmail.sharingRules
+FullName/Id: ListEmail/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/ServiceTerritory.sharingRules
+FullName/Id: ServiceTerritory/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Case.sharingRules
+FullName/Id: Case/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Producer.sharingRules
+FullName/Id: Producer/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Campaign.sharingRules
+FullName/Id: Campaign/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Asset.sharingRules
+FullName/Id: Asset/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Claim.sharingRules
+FullName/Id: Claim/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/WorkType.sharingRules
+FullName/Id: WorkType/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/FlowInterview.sharingRules
+FullName/Id: FlowInterview/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/ActionPlan.sharingRules
+FullName/Id: ActionPlan/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/InsurancePolicy.sharingRules
+FullName/Id: InsurancePolicy/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/User.sharingRules
+FullName/Id: User/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/BusinessLicense.sharingRules
+FullName/Id: BusinessLicense/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Lead.sharingRules
+FullName/Id: Lead/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/PersonEducation.sharingRules
+FullName/Id: PersonEducation/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/CustomerProperty.sharingRules
+FullName/Id: CustomerProperty/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/Account.sharingRules
+FullName/Id: Account/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/InsurancePolicyAsset.sharingRules
+FullName/Id: InsurancePolicyAsset/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/IdentityDocument.sharingRules
+FullName/Id: IdentityDocument/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: sharingRules/ServiceResource.sharingRules
+FullName/Id: ServiceResource/
+Manageable State: null
+Namespace Prefix: 
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************

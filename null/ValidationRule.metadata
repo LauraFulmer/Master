@@ -1,0 +1,376 @@
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.FinServ__IndividualCannotHaveMoreThanOneContact/03d2o000000orTgAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccountRole__c.object
+FullName/Id: FinServ__FinancialAccountRole__c.FinServ__InactiveFARCannotBeEdited/03d2o000000orTpAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccount__c.object
+FullName/Id: FinServ__FinancialAccount__c.FinServ__NoJointOwnerForIndividualAccounts/03d2o000000orTwAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__Employment__c.object
+FullName/Id: FinServ__Employment__c.FinServ__StartDateCannotBeInFuture/03d2o000000orU6AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccount__c.object
+FullName/Id: FinServ__FinancialAccount__c.FinServ__ManagedAndHeldAwayCannotBeBothSelected/03d2o000000orTvAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccountRole__c.object
+FullName/Id: FinServ__FinancialAccountRole__c.FinServ__CannotCreateInactiveRecord/03d2o000000orTnAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__ContactContactRelation__c.object
+FullName/Id: FinServ__ContactContactRelation__c.FinServ__CannotCreateInactiveRecord/03d2o000000orTkAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Opportunity.object
+FullName/Id: Opportunity.FinServ__NonPortalUserReferrer/03d2o000000orUCAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__Education__c.object
+FullName/Id: FinServ__Education__c.FinServ__YearOfGradCannotBeInFuture/03d2o000000orU4AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccountRole__c.object
+FullName/Id: FinServ__FinancialAccountRole__c.FinServ__FARCannotBeModified/03d2o000000orToAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccountRole__c.object
+FullName/Id: FinServ__FinancialAccountRole__c.FinServ__OwnershipRolesCannotBeDeactivated/03d2o000000orTrAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.FinServ__NotAllowingConversionFromIndividual/03d2o000000orThAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__Revenue__c.object
+FullName/Id: FinServ__Revenue__c.FinServ__AccountOrFinancialAccountRequired/03d2o000000orTyAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__AssetsAndLiabilities__c.object
+FullName/Id: FinServ__AssetsAndLiabilities__c.FinServ__NoJointOwnerForIndividualAccounts/03d2o000000orTcAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__Employment__c.object
+FullName/Id: FinServ__Employment__c.FinServ__EndDateCannotBeInFuture/03d2o000000orU5AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Lead.object
+FullName/Id: Lead.FinServ__NonPortalUserReferrer/03d2o000000orUBAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.FinServ__NotAllowingConversionToIndividual/03d2o000000orTiAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__AccountAccountRelation__c.object
+FullName/Id: FinServ__AccountAccountRelation__c.FinServ__CannotCreateInactiveRecord/03d2o000000orTaAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__AccountAccountRelation__c.object
+FullName/Id: FinServ__AccountAccountRelation__c.FinServ__AARCanOnlyBeDeactivated/03d2o000000orTYAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccountRole__c.object
+FullName/Id: FinServ__FinancialAccountRole__c.FinServ__OwnershipRolesCannotBeModified/03d2o000000orTsAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__NonPortalUserReferrer/03d2o000000orU0AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.FinServ__ContactCannotBeAssociatedToHousehold/03d2o000000orTUAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__AssetsAndLiabilities__c.object
+FullName/Id: FinServ__AssetsAndLiabilities__c.FinServ__PrimaryAndJointOwnerCannotBeSame/03d2o000000orTdAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__ContactContactRelation__c.object
+FullName/Id: FinServ__ContactContactRelation__c.FinServ__ContactAndRelatedContactCannotBeSame/03d2o000000orTlAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.FinServ__CannotHaveMoreThanOnePrimaryAddress/03d2o000000orTfAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccountRole__c.object
+FullName/Id: FinServ__FinancialAccountRole__c.FinServ__InactiveRecordCannotBeReactivated/03d2o000000orTqAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__NotAllowingConversionToIndividual/03d2o000000orTXAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__NotAllowingConversionFromIndividual/03d2o000000orTWAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__ContactContactRelation__c.object
+FullName/Id: FinServ__ContactContactRelation__c.FinServ__CCRCanOnlyBeDeactivated/03d2o000000orTjAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Account.object
+FullName/Id: Account.FinServ__SingleReferredByEntryByRecord/03d2o000000orU1AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__AccountAccountRelation__c.object
+FullName/Id: FinServ__AccountAccountRelation__c.FinServ__AccountCannotBeAnIndividual/03d2o000000orTzAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__IdentificationDocument__c.object
+FullName/Id: FinServ__IdentificationDocument__c.FinServ__ExpDateCannotBeLaterThanStart/03d2o000000orU8AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__IdentificationDocument__c.object
+FullName/Id: FinServ__IdentificationDocument__c.FinServ__VerificationDateTimeCannotBeInFuture/03d2o000000orUAAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__ContactContactRelation__c.object
+FullName/Id: FinServ__ContactContactRelation__c.FinServ__InactiveCCRCannotBeEdited/03d2o000000orTmAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccountRole__c.object
+FullName/Id: FinServ__FinancialAccountRole__c.FinServ__RoleIsMandatory/03d2o000000orTuAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccount__c.object
+FullName/Id: FinServ__FinancialAccount__c.FinServ__PrimaryAndJointOwnerCannotBeSame/03d2o000000orTxAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__AccountAccountRelation__c.object
+FullName/Id: FinServ__AccountAccountRelation__c.FinServ__InactiveAARCannotBeEdited/03d2o000000orTbAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__Employment__c.object
+FullName/Id: FinServ__Employment__c.FinServ__StartDateCannotBeLaterThanEndDate/03d2o000000orU7AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__FinancialAccountRole__c.object
+FullName/Id: FinServ__FinancialAccountRole__c.FinServ__RelatedAccountOrContactRequired/03d2o000000orTtAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Lead.object
+FullName/Id: Lead.FinServ__SingleReferredByEntryByRecord/03d2o000000orTVAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.FinServ__SingleReferredByEntryByRecord/03d2o000000orU3AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.FinServ__NonPortalUserReferrer/03d2o000000orU2AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__IdentificationDocument__c.object
+FullName/Id: FinServ__IdentificationDocument__c.FinServ__IssueDateCannotBeInFuture/03d2o000000orU9AAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/Opportunity.object
+FullName/Id: Opportunity.FinServ__SingleReferredByEntryByRecord/03d2o000000orUDAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+Last Modified By (Name/Id): Financial Services Cloud/0052o000009YCqfAAG
+************************************************************
+************************************************************
+FileName: objects/FinServ__ReciprocalRole__c.object
+FullName/Id: FinServ__ReciprocalRole__c.FinServ__ProhibitUpdates/03d2o000000orTTAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/Contact.object
+FullName/Id: Contact.FinServ__BirthdateCannotBeInFuture/03d2o000000orTeAAI
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
+************************************************************
+FileName: objects/FinServ__AccountAccountRelation__c.object
+FullName/Id: FinServ__AccountAccountRelation__c.FinServ__AccountAndRelatedAccountCannotBeSame/03d2o000000orTZAAY
+Manageable State: installed
+Namespace Prefix: FinServ
+Created By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+Last Modified By (Name/Id): Laura Fulmer/0052o000008yjyqAAA
+************************************************************
